@@ -1,7 +1,7 @@
 # Hello, nice to see you!
 
 ## About me:
-- My name is gabriel, I am a developer from Mexico.
+- My name is gabriel, I am a web developer from Mexico.
 - I love programming and learning about software architecture.
 - In my free time I draw and develop small games.
 - Currently studying at Microverse.
