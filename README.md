@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyea&layout=compact&theme=merko)](https://github.com/gabrielyea/gabrielyea)
 
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel&theme=merko)](https://github.com/gabrielyea)
+[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielyea&theme=merko)](https://github.com/gabrielyea)
 
 <!--START_SECTION:waka-->
 ```text
