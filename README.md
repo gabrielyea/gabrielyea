@@ -24,4 +24,10 @@
 [![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel&theme=merko)](https://github.com/gabrielyea)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 56 mins   ████████████████████████░   95.93 % 
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+```
 <!--END_SECTION:waka-->
