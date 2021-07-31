@@ -1,6 +1,7 @@
 # Hello, nice to see you!
 
-![intro](https://github.com/gabrielyea/gabrielyea/blob/main/walkingintro.gif)
+<img src="https://github.com/gabrielyea/gabrielyea/blob/main/walkingintro.gif" width="100%" height="100%"/>
+
 ## About me:
 - My name is gabriel, I am a web developer from Mexico.
 - I love programming and learning about software architecture.
