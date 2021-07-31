@@ -1,4 +1,4 @@
-<img src="https://github.com/gabrielyea/gabrielyea/blob/main/walkingintro-1.gif" width="100%" height="100%"/>
+<img src="https://github.com/gabrielyea/gabrielyea/blob/main/walkingintro.gif" width="100%" height="100%"/>
 
 ## About me:
 - My name is gabriel, I am a web developer from Mexico.
