@@ -1,5 +1,3 @@
-# Hello, nice to see you!
-
 <img src="https://github.com/gabrielyea/gabrielyea/blob/main/walkingintro-1.gif" width="100%" height="100%"/>
 
 ## About me:
