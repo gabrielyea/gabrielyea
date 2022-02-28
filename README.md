@@ -24,7 +24,9 @@
 [![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel&theme=merko)](https://github.com/gabrielyea)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
